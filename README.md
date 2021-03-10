@@ -21,3 +21,14 @@ https://zestedesavoir.com/tutoriels/686/arduino-premiers-pas-en-informatique-emb
 http://idehack.com/blog/utiliser-le-shield-ethernet-w5100-avec-larduino-uno-rev3/
 
 https://sti2d.ecolelamache.org/partie_1__arduino_en_mode_serveur.html
+
+
+Sites :
+
+https://electrotoile.eu/arduino_shield_ethernet.php
+
+https://plaisirarduino.fr/shield-ethernet/
+
+https://microcontrollerslab.com/interfacing-ethernet-shield-arduino/
+
+https://www.handsonembedded.com/arduino-ethernet-shield/
