@@ -2,7 +2,7 @@
 
 https://www.maketecheasier.com/watching-videos-on-raspberry-pi
 
-
+```python
 import numpy as np
 from scipy import signal
 from matplotlib import pyplot as plt
@@ -35,3 +35,4 @@ plt.semilogx (w, phase, color="red", linewidth="1.1")
 plt.xlabel ("Freq")
 plt.ylabel ("Amplitude")
 plt.grid()
+
