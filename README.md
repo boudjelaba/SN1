@@ -1,3 +1,10 @@
+## Affichage des images dans Jupyter Notebook
+
+```python
+from IPython.display import Image
+Image(filename = "img/circuit1.png", width=400)
+```
+
 # SN1
 
 ```python
