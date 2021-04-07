@@ -1,7 +1,5 @@
 # SN1
 
-https://www.maketecheasier.com/watching-videos-on-raspberry-pi
-
 ```python
 import numpy as np
 from scipy import signal
