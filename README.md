@@ -44,6 +44,7 @@ plt.grid()
 
 ### Code HTML
 
+```html
 
 <!DOCTYPE html>
 <html lang="fr">
