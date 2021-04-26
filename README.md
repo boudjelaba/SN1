@@ -40,6 +40,7 @@ plt.semilogx (w, phase, color="red", linewidth="1.1")
 plt.xlabel ("Freq")
 plt.ylabel ("Amplitude")
 plt.grid()
+```
 
 ### Code HTML
 
