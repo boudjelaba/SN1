@@ -5,7 +5,7 @@ from IPython.display import Image
 Image(filename = "img/circuit1.png", width=400)
 ```
 
-# SN1
+# Diagramme de Bode (Module et phase)
 
 ```python
 import numpy as np
