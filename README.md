@@ -25,7 +25,7 @@ void setup() {
  
   pinMode(led , OUTPUT);
   pinMode (bouton, INPUT_PULLUP);// ne pas oublier la résistance de PULLUP Attention!!!
-  pinMode (bouton1, INPUT_PULLUP);//les commandes sont inversés
+  pinMode (bouton1, INPUT_PULLUP);//les commandes sont inversées
 }
 void loop() {
  
@@ -42,7 +42,7 @@ void loop() {
  
   if (etatFER == 0) {//si elle est égale à 0 (donc à 1)
  
-    mySerial.write("d");//on envoie la la lettre d sur la connexion série 10,11
+    mySerial.write("d");//on envoie la lettre d sur la connexion série 10,11
     Serial.println("d");
   }  delay (50);
  
@@ -98,7 +98,7 @@ void setup()
  
   pinMode(led , OUTPUT);
   pinMode (bouton, INPUT_PULLUP);// ne pas oublier la résistance de PULLUP Attention!!!
-  pinMode (bouton1, INPUT_PULLUP);//les commandes sont inversés
+  pinMode (bouton1, INPUT_PULLUP);//les commandes sont inversées
 }
 void loop()
 {
